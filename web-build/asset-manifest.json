@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.js": "./static/js/main.583674a5.js",
+    "static/js/991.ac4b6161.js": "./static/js/991.ac4b6161.js",
+    "static/media/MaterialCommunityIcons.ttf": "./static/media/MaterialCommunityIcons.5d42b4e60858731e7b65.ttf",
+    "static/media/town_bg.png": "./static/media/town_bg.2ce37a1549a8a112e879.png",
+    "static/media/volcano_bg.png": "./static/media/volcano_bg.77321cd2b1298b8d81f1.png",
+    "static/media/sky_bg.png": "./static/media/sky_bg.b65289bff86287827163.png",
+    "static/media/grasslands_bg.png": "./static/media/grasslands_bg.546efdf751f8ca52625a.png",
+    "static/media/FontAwesome5_Solid.ttf": "./static/media/FontAwesome5_Solid.07c3313b24f7b1ca85ee.ttf",
+    "static/media/FontAwesome5_Brands.ttf": "./static/media/FontAwesome5_Brands.9e138496e8f1719c6ebf.ttf",
+    "static/media/Entypo.ttf": "./static/media/Entypo.fc6169344c041cffcdae.ttf",
+    "static/media/gold.png": "./static/media/gold.4f514a5c71d44ad80bbf.png",
+    "static/media/diamond.png": "./static/media/diamond.e2cba87ec449845e7c8b.png",
+    "static/media/bronze.png": "./static/media/bronze.743dd154bbef22723664.png",
+    "static/media/master.png": "./static/media/master.f437b98d30c81b0c7c87.png",
+    "static/media/platinum.png": "./static/media/platinum.3359df480a4bc03c1a14.png",
+    "static/media/silver.png": "./static/media/silver.8c2e3e58dc3b1dfff3f8.png",
+    "static/media/FontAwesome5_Regular.ttf": "./static/media/FontAwesome5_Regular.1017bce89c72f95bcf8e.ttf",
+    "static/media/forge_bg.jpg": "./static/media/forge_bg.3acb8a1f55a1283cfb8a.jpg",
+    "index.html": "./index.html",
+    "serve.json": "./serve.json",
+    "manifest.json": "./manifest.json",
+    "main.583674a5.js.map": "./static/js/main.583674a5.js.map",
+    "991.ac4b6161.js.map": "./static/js/991.ac4b6161.js.map"
+  },
+  "entrypoints": [
+    "static/js/991.ac4b6161.js",
+    "static/js/main.583674a5.js"
+  ]
+}
